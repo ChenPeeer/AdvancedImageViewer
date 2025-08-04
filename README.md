@@ -6,12 +6,11 @@
 </div>
 
 <!-- 徽章 -->
-<div align="center" style="display:flex; flex-direction:row; gap:10px;">
+<div align="center">
 
-  ![version](https://img.shields.io/badge/version-1.1-blue)
-  
-  ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green)
-  
+![version](https://img.shields.io/badge/version-1.1-blue)
+![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green)
+
 </div>
 
 # 截图
