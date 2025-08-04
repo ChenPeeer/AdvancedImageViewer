@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Advanced Image Viewer"
+  },
+  "extension_description": {
+    "message": "View images by rotating, zooming, flipping, and panning through the right-click menu"
+  },
+  "context_menu_item_title": {
+    "message": "View Image (Rotate/Zoom/Flip/Pan)"
+  },
+  "clear_rotation": {
+    "message": "Clear Rotation"
+  },
+  "flip_horizontal": {
+    "message": "Flip Horizontally"
+  },
+  "flip_vertical": {
+    "message": "Flip Vertically"
+  },
+  "clear_flip": {
+    "message": "Clear Flip"
+  },
+  "zoom_in": {
+    "message": "Zoom In"
+  },
+  "zoom_out": {
+    "message": "Zoom Out"
+  },
+  "clear_zoom": {
+    "message": "Clear Zoom"
+  },
+  "pan_up": {
+    "message": "Pan Up"
+  },
+  "pan_down": {
+    "message": "Pan Down"
+  },
+  "pan_left": {
+    "message": "Pan Left"
+  },
+  "pan_right": {
+    "message": "Pan Right"
+  },
+  "clear_pan": {
+    "message": "Clear Pan"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "close": {
+    "message": "Close"
+  }
+}

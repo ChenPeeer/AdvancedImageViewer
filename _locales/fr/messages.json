@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Visionneuse d'Images Avancée"
+  },
+  "extension_description": {
+    "message": "Afficher les images en les faisant pivoter, zoomer, retourner et déplacer via le menu contextuel"
+  },
+  "context_menu_item_title": {
+    "message": "Afficher l'image (Pivoter/Zoom/Retourner/Déplacer)"
+  },
+  "clear_rotation": {
+    "message": "Réinitialiser la rotation"
+  },
+  "flip_horizontal": {
+    "message": "Retourner horizontalement"
+  },
+  "flip_vertical": {
+    "message": "Retourner verticalement"
+  },
+  "clear_flip": {
+    "message": "Réinitialiser le retournement"
+  },
+  "zoom_in": {
+    "message": "Zoom avant"
+  },
+  "zoom_out": {
+    "message": "Zoom arrière"
+  },
+  "clear_zoom": {
+    "message": "Réinitialiser le zoom"
+  },
+  "pan_up": {
+    "message": "Déplacer vers le haut"
+  },
+  "pan_down": {
+    "message": "Déplacer vers le bas"
+  },
+  "pan_left": {
+    "message": "Déplacer vers la gauche"
+  },
+  "pan_right": {
+    "message": "Déplacer vers la droite"
+  },
+  "clear_pan": {
+    "message": "Réinitialiser le déplacement"
+  },
+  "reset": {
+    "message": "Réinitialiser"
+  },
+  "close": {
+    "message": "Fermer"
+  }
+}

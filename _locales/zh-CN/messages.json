@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "高级图像查看器"
+  },
+  "extension_description": {
+    "message": "通过右键菜单旋转、缩放、翻转和平移查看图像"
+  },
+  "context_menu_item_title": {
+    "message": "查看图像（旋转/缩放/翻转/平移）"
+  },
+  "clear_rotation": {
+    "message": "清除旋转"
+  },
+  "flip_horizontal": {
+    "message": "左右翻转"
+  },
+  "flip_vertical": {
+    "message": "上下翻转"
+  },
+  "clear_flip": {
+    "message": "清除翻转"
+  },
+  "zoom_in": {
+    "message": "放大"
+  },
+  "zoom_out": {
+    "message": "缩小"
+  },
+  "clear_zoom": {
+    "message": "清除缩放"
+  },
+  "pan_up": {
+    "message": "向上平移"
+  },
+  "pan_down": {
+    "message": "向下平移"
+  },
+  "pan_left": {
+    "message": "向左平移"
+  },
+  "pan_right": {
+    "message": "向右平移"
+  },
+  "clear_pan": {
+    "message": "清除平移"
+  },
+  "reset": {
+    "message": "重置"
+  },
+  "close": {
+    "message": "关闭"
+  }
+}

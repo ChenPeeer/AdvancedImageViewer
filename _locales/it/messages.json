@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Visualizzatore Immagini Avanzato"
+  },
+  "extension_description": {
+    "message": "Visualizza le immagini ruotandole, ingrandendole, capovolgendole e spostandole tramite il menu contestuale"
+  },
+  "context_menu_item_title": {
+    "message": "Visualizza immagine (Ruota/Zoom/Capovolgi/Sposta)"
+  },
+  "clear_rotation": {
+    "message": "Cancella rotazione"
+  },
+  "flip_horizontal": {
+    "message": "Capovolgi orizzontalmente"
+  },
+  "flip_vertical": {
+    "message": "Capovolgi verticalmente"
+  },
+  "clear_flip": {
+    "message": "Cancella capovolgimento"
+  },
+  "zoom_in": {
+    "message": "Ingrandisci"
+  },
+  "zoom_out": {
+    "message": "Riduci"
+  },
+  "clear_zoom": {
+    "message": "Reimposta zoom"
+  },
+  "pan_up": {
+    "message": "Sposta in alto"
+  },
+  "pan_down": {
+    "message": "Sposta in basso"
+  },
+  "pan_left": {
+    "message": "Sposta a sinistra"
+  },
+  "pan_right": {
+    "message": "Sposta a destra"
+  },
+  "clear_pan": {
+    "message": "Reimposta spostamento"
+  },
+  "reset": {
+    "message": "Reimposta"
+  },
+  "close": {
+    "message": "Chiudi"
+  }
+}

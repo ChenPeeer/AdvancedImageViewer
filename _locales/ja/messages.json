@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "高度な画像ビューア"
+  },
+  "extension_description": {
+    "message": "右クリックメニューから画像を回転、ズーム、反転、パンして表示"
+  },
+  "context_menu_item_title": {
+    "message": "画像を表示（回転/ズーム/反転/パン）"
+  },
+  "clear_rotation": {
+    "message": "回転をリセット"
+  },
+  "flip_horizontal": {
+    "message": "左右反転"
+  },
+  "flip_vertical": {
+    "message": "上下反転"
+  },
+  "clear_flip": {
+    "message": "反転をリセット"
+  },
+  "zoom_in": {
+    "message": "ズームイン"
+  },
+  "zoom_out": {
+    "message": "ズームアウト"
+  },
+  "clear_zoom": {
+    "message": "ズームをリセット"
+  },
+  "pan_up": {
+    "message": "上にパン"
+  },
+  "pan_down": {
+    "message": "下にパン"
+  },
+  "pan_left": {
+    "message": "左にパン"
+  },
+  "pan_right": {
+    "message": "右にパン"
+  },
+  "clear_pan": {
+    "message": "パンをリセット"
+  },
+  "reset": {
+    "message": "リセット"
+  },
+  "close": {
+    "message": "閉じる"
+  }
+}

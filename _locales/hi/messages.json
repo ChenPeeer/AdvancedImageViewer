@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "उन्नत इमेज व्यूअर"
+  },
+  "extension_description": {
+    "message": "सही-क्लिक मेनू के माध्यम से चित्रों को घुमाकर, ज़ूम करके, पलटकर और खिसकाकर देखें"
+  },
+  "context_menu_item_title": {
+    "message": "छवि देखें (घुमाएँ/ज़ूम/पलटें/खिसकाएँ)"
+  },
+  "clear_rotation": {
+    "message": "घुमाव साफ़ करें"
+  },
+  "flip_horizontal": {
+    "message": "क्षैतिज पलटें"
+  },
+  "flip_vertical": {
+    "message": "ऊर्ध्वाधर पलटें"
+  },
+  "clear_flip": {
+    "message": "पलटना साफ़ करें"
+  },
+  "zoom_in": {
+    "message": "ज़ूम इन करें"
+  },
+  "zoom_out": {
+    "message": "ज़ूम आउट करें"
+  },
+  "clear_zoom": {
+    "message": "ज़ूम रीसेट करें"
+  },
+  "pan_up": {
+    "message": "ऊपर खिसकाएँ"
+  },
+  "pan_down": {
+    "message": "नीचे खिसकाएँ"
+  },
+  "pan_left": {
+    "message": "बाएँ खिसकाएँ"
+  },
+  "pan_right": {
+    "message": "दाएँ खिसकाएँ"
+  },
+  "clear_pan": {
+    "message": "खिसकाना साफ़ करें"
+  },
+  "reset": {
+    "message": "रीसेट करें"
+  },
+  "close": {
+    "message": "बंद करें"
+  }
+}

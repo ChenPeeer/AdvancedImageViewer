@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Visualizador de Imagens Avançado"
+  },
+  "extension_description": {
+    "message": "Visualize imagens girando, ampliando, espelhando e movendo através do menu do botão direito"
+  },
+  "context_menu_item_title": {
+    "message": "Visualizar Imagem (Girar/Zoom/Espelhar/Mover)"
+  },
+  "clear_rotation": {
+    "message": "Limpar rotação"
+  },
+  "flip_horizontal": {
+    "message": "Espelhar horizontalmente"
+  },
+  "flip_vertical": {
+    "message": "Espelhar verticalmente"
+  },
+  "clear_flip": {
+    "message": "Limpar espelhamento"
+  },
+  "zoom_in": {
+    "message": "Aumentar zoom"
+  },
+  "zoom_out": {
+    "message": "Reduzir zoom"
+  },
+  "clear_zoom": {
+    "message": "Redefinir zoom"
+  },
+  "pan_up": {
+    "message": "Mover para cima"
+  },
+  "pan_down": {
+    "message": "Mover para baixo"
+  },
+  "pan_left": {
+    "message": "Mover para a esquerda"
+  },
+  "pan_right": {
+    "message": "Mover para a direita"
+  },
+  "clear_pan": {
+    "message": "Redefinir movimentação"
+  },
+  "reset": {
+    "message": "Redefinir"
+  },
+  "close": {
+    "message": "Fechar"
+  }
+}

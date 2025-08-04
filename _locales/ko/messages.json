@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "고급 이미지 뷰어"
+  },
+  "extension_description": {
+    "message": "오른쪽 클릭 메뉴를 통해 이미지를 회전, 확대/축소, 반전, 이동하여 보기"
+  },
+  "context_menu_item_title": {
+    "message": "이미지 보기 (회전/확대/반전/이동)"
+  },
+  "clear_rotation": {
+    "message": "회전 초기화"
+  },
+  "flip_horizontal": {
+    "message": "수평 반전"
+  },
+  "flip_vertical": {
+    "message": "수직 반전"
+  },
+  "clear_flip": {
+    "message": "반전 초기화"
+  },
+  "zoom_in": {
+    "message": "확대"
+  },
+  "zoom_out": {
+    "message": "축소"
+  },
+  "clear_zoom": {
+    "message": "확대/축소 초기화"
+  },
+  "pan_up": {
+    "message": "위로 이동"
+  },
+  "pan_down": {
+    "message": "아래로 이동"
+  },
+  "pan_left": {
+    "message": "왼쪽으로 이동"
+  },
+  "pan_right": {
+    "message": "오른쪽으로 이동"
+  },
+  "clear_pan": {
+    "message": "이동 초기화"
+  },
+  "reset": {
+    "message": "초기화"
+  },
+  "close": {
+    "message": "닫기"
+  }
+}

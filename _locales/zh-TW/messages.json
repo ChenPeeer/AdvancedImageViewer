@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "高級圖像檢視器"
+  },
+  "extension_description": {
+    "message": "透過右鍵選單旋轉、縮放、翻轉和平移檢視圖像"
+  },
+  "context_menu_item_title": {
+    "message": "檢視圖像（旋轉/縮放/翻轉/平移）"
+  },
+  "clear_rotation": {
+    "message": "清除旋轉"
+  },
+  "flip_horizontal": {
+    "message": "左右翻轉"
+  },
+  "flip_vertical": {
+    "message": "上下翻轉"
+  },
+  "clear_flip": {
+    "message": "清除翻轉"
+  },
+  "zoom_in": {
+    "message": "放大"
+  },
+  "zoom_out": {
+    "message": "縮小"
+  },
+  "clear_zoom": {
+    "message": "清除縮放"
+  },
+  "pan_up": {
+    "message": "向上平移"
+  },
+  "pan_down": {
+    "message": "向下平移"
+  },
+  "pan_left": {
+    "message": "向左平移"
+  },
+  "pan_right": {
+    "message": "向右平移"
+  },
+  "clear_pan": {
+    "message": "清除平移"
+  },
+  "reset": {
+    "message": "重設"
+  },
+  "close": {
+    "message": "關閉"
+  }
+}

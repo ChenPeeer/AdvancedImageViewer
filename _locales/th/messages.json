@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "โปรแกรมดูภาพขั้นสูง"
+  },
+  "extension_description": {
+    "message": "ดูภาพโดยการหมุน ขยาย พลิก และเลื่อนผ่านเมนูคลิกขวา"
+  },
+  "context_menu_item_title": {
+    "message": "ดูภาพ (หมุน/ขยาย/พลิก/เลื่อน)"
+  },
+  "clear_rotation": {
+    "message": "ล้างการหมุน"
+  },
+  "flip_horizontal": {
+    "message": "พลิกแนวนอน"
+  },
+  "flip_vertical": {
+    "message": "พลิกแนวตั้ง"
+  },
+  "clear_flip": {
+    "message": "ล้างการพลิก"
+  },
+  "zoom_in": {
+    "message": "ขยาย"
+  },
+  "zoom_out": {
+    "message": "ย่อ"
+  },
+  "clear_zoom": {
+    "message": "ล้างการขยาย"
+  },
+  "pan_up": {
+    "message": "เลื่อนขึ้น"
+  },
+  "pan_down": {
+    "message": "เลื่อนลง"
+  },
+  "pan_left": {
+    "message": "เลื่อนซ้าย"
+  },
+  "pan_right": {
+    "message": "เลื่อนขวา"
+  },
+  "clear_pan": {
+    "message": "ล้างการเลื่อน"
+  },
+  "reset": {
+    "message": "รีเซ็ต"
+  },
+  "close": {
+    "message": "ปิด"
+  }
+}

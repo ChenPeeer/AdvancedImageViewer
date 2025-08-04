@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Расширенный просмотр изображений"
+  },
+  "extension_description": {
+    "message": "Просмотр изображений с помощью вращения, увеличения, отражения и перемещения через контекстное меню"
+  },
+  "context_menu_item_title": {
+    "message": "Просмотреть изображение (Вращение/Масштаб/Отражение/Перемещение)"
+  },
+  "clear_rotation": {
+    "message": "Сбросить вращение"
+  },
+  "flip_horizontal": {
+    "message": "Отразить по горизонтали"
+  },
+  "flip_vertical": {
+    "message": "Отразить по вертикали"
+  },
+  "clear_flip": {
+    "message": "Сбросить отражение"
+  },
+  "zoom_in": {
+    "message": "Увеличить"
+  },
+  "zoom_out": {
+    "message": "Уменьшить"
+  },
+  "clear_zoom": {
+    "message": "Сбросить масштаб"
+  },
+  "pan_up": {
+    "message": "Сдвинуть вверх"
+  },
+  "pan_down": {
+    "message": "Сдвинуть вниз"
+  },
+  "pan_left": {
+    "message": "Сдвинуть влево"
+  },
+  "pan_right": {
+    "message": "Сдвинуть вправо"
+  },
+  "clear_pan": {
+    "message": "Сбросить смещение"
+  },
+  "reset": {
+    "message": "Сбросить"
+  },
+  "close": {
+    "message": "Закрыть"
+  }
+}

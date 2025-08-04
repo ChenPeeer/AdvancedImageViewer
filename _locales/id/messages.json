@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Penampil Gambar Lanjutan"
+  },
+  "extension_description": {
+    "message": "Lihat gambar dengan memutar, memperbesar, membalik, dan menggeser melalui menu klik kanan"
+  },
+  "context_menu_item_title": {
+    "message": "Lihat Gambar (Putar/Zoom/Balik/Geser)"
+  },
+  "clear_rotation": {
+    "message": "Hapus Rotasi"
+  },
+  "flip_horizontal": {
+    "message": "Balik Horizontal"
+  },
+  "flip_vertical": {
+    "message": "Balik Vertikal"
+  },
+  "clear_flip": {
+    "message": "Hapus Pembalikan"
+  },
+  "zoom_in": {
+    "message": "Perbesar"
+  },
+  "zoom_out": {
+    "message": "Perkecil"
+  },
+  "clear_zoom": {
+    "message": "Atur Ulang Zoom"
+  },
+  "pan_up": {
+    "message": "Geser ke Atas"
+  },
+  "pan_down": {
+    "message": "Geser ke Bawah"
+  },
+  "pan_left": {
+    "message": "Geser ke Kiri"
+  },
+  "pan_right": {
+    "message": "Geser ke Kanan"
+  },
+  "clear_pan": {
+    "message": "Atur Ulang Geseran"
+  },
+  "reset": {
+    "message": "Atur Ulang"
+  },
+  "close": {
+    "message": "Tutup"
+  }
+}

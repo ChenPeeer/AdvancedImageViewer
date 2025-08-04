@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Erweiterter Bildbetrachter"
+  },
+  "extension_description": {
+    "message": "Bilder anzeigen durch Drehen, Zoomen, Spiegeln und Verschieben über das Rechtsklick-Menü"
+  },
+  "context_menu_item_title": {
+    "message": "Bild anzeigen (Drehen/Zoomen/Spiegeln/Verschieben)"
+  },
+  "clear_rotation": {
+    "message": "Drehung zurücksetzen"
+  },
+  "flip_horizontal": {
+    "message": "Horizontal spiegeln"
+  },
+  "flip_vertical": {
+    "message": "Vertikal spiegeln"
+  },
+  "clear_flip": {
+    "message": "Spiegelung zurücksetzen"
+  },
+  "zoom_in": {
+    "message": "Vergrößern"
+  },
+  "zoom_out": {
+    "message": "Verkleinern"
+  },
+  "clear_zoom": {
+    "message": "Zoom zurücksetzen"
+  },
+  "pan_up": {
+    "message": "Nach oben verschieben"
+  },
+  "pan_down": {
+    "message": "Nach unten verschieben"
+  },
+  "pan_left": {
+    "message": "Nach links verschieben"
+  },
+  "pan_right": {
+    "message": "Nach rechts verschieben"
+  },
+  "clear_pan": {
+    "message": "Verschiebung zurücksetzen"
+  },
+  "reset": {
+    "message": "Zurücksetzen"
+  },
+  "close": {
+    "message": "Schließen"
+  }
+}

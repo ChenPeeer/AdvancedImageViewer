@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Visor de Imágenes Avanzado"
+  },
+  "extension_description": {
+    "message": "Ver imágenes rotando, ampliando, volteando y desplazando desde el menú contextual"
+  },
+  "context_menu_item_title": {
+    "message": "Ver imagen (Rotar/Zoom/Voltear/Desplazar)"
+  },
+  "clear_rotation": {
+    "message": "Borrar rotación"
+  },
+  "flip_horizontal": {
+    "message": "Voltear horizontalmente"
+  },
+  "flip_vertical": {
+    "message": "Voltear verticalmente"
+  },
+  "clear_flip": {
+    "message": "Borrar volteo"
+  },
+  "zoom_in": {
+    "message": "Acercar"
+  },
+  "zoom_out": {
+    "message": "Alejar"
+  },
+  "clear_zoom": {
+    "message": "Restablecer zoom"
+  },
+  "pan_up": {
+    "message": "Desplazar hacia arriba"
+  },
+  "pan_down": {
+    "message": "Desplazar hacia abajo"
+  },
+  "pan_left": {
+    "message": "Desplazar a la izquierda"
+  },
+  "pan_right": {
+    "message": "Desplazar a la derecha"
+  },
+  "clear_pan": {
+    "message": "Restablecer desplazamiento"
+  },
+  "reset": {
+    "message": "Restablecer"
+  },
+  "close": {
+    "message": "Cerrar"
+  }
+}

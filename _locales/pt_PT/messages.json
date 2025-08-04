@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Visualizador de Imagens Avançado"
+  },
+  "extension_description": {
+    "message": "Veja imagens rodando, ampliando, espelhando e deslocando através do menu do botão direito"
+  },
+  "context_menu_item_title": {
+    "message": "Ver Imagem (Rodar/Zoom/Espelhar/Deslocar)"
+  },
+  "clear_rotation": {
+    "message": "Limpar rotação"
+  },
+  "flip_horizontal": {
+    "message": "Espelhar horizontalmente"
+  },
+  "flip_vertical": {
+    "message": "Espelhar verticalmente"
+  },
+  "clear_flip": {
+    "message": "Limpar espelhamento"
+  },
+  "zoom_in": {
+    "message": "Aumentar zoom"
+  },
+  "zoom_out": {
+    "message": "Diminuir zoom"
+  },
+  "clear_zoom": {
+    "message": "Repor zoom"
+  },
+  "pan_up": {
+    "message": "Deslocar para cima"
+  },
+  "pan_down": {
+    "message": "Deslocar para baixo"
+  },
+  "pan_left": {
+    "message": "Deslocar para a esquerda"
+  },
+  "pan_right": {
+    "message": "Deslocar para a direita"
+  },
+  "clear_pan": {
+    "message": "Repor deslocamento"
+  },
+  "reset": {
+    "message": "Repor"
+  },
+  "close": {
+    "message": "Fechar"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "extension_title": {
+    "message": "Trình xem ảnh nâng cao"
+  },
+  "extension_description": {
+    "message": "Xem hình ảnh bằng cách xoay, phóng to, lật và di chuyển qua menu chuột phải"
+  },
+  "context_menu_item_title": {
+    "message": "Xem ảnh (Xoay/Phóng to/Lật/Di chuyển)"
+  },
+  "clear_rotation": {
+    "message": "Xóa xoay"
+  },
+  "flip_horizontal": {
+    "message": "Lật ngang"
+  },
+  "flip_vertical": {
+    "message": "Lật dọc"
+  },
+  "clear_flip": {
+    "message": "Xóa lật"
+  },
+  "zoom_in": {
+    "message": "Phóng to"
+  },
+  "zoom_out": {
+    "message": "Thu nhỏ"
+  },
+  "clear_zoom": {
+    "message": "Đặt lại phóng to"
+  },
+  "pan_up": {
+    "message": "Di chuyển lên trên"
+  },
+  "pan_down": {
+    "message": "Di chuyển xuống dưới"
+  },
+  "pan_left": {
+    "message": "Di chuyển sang trái"
+  },
+  "pan_right": {
+    "message": "Di chuyển sang phải"
+  },
+  "clear_pan": {
+    "message": "Đặt lại di chuyển"
+  },
+  "reset": {
+    "message": "Đặt lại"
+  },
+  "close": {
+    "message": "Đóng"
+  }
+}
